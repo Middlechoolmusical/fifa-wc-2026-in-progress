@@ -34,8 +34,32 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Development Roadmap (Planned Features)
+---
 
-The current model is a simple head-to-head match predictor. In future updates, we plan to implement:
-1. **Dynamic Elo Rating System**: Instead of simple team codes, we will calculate dynamic rating strengths for each country based on their historical results (giving more weight to recent matches and competitive tournaments).
-2. **Monte Carlo Tournament Simulation**: We will build an engine that simulates all 8 groups in the World Cup round-robin stage, determines who qualifies, generates the knockout brackets (Round of 16, Quarterfinals, Semifinals, Final), and runs the entire tournament 10,000 times to calculate the probability of each country winning the World Cup.
+## 📸 Current Prototype
+
+### FIFA World Cup Predictor Interface
+
+![FIFA Predictor Interface](screenshots/fifa-predictor-ui.jpeg)
+
+### ✅ Current Features
+
+- Random Forest-based head-to-head match prediction
+- Historical international football results dataset
+- Interactive Streamlit web interface
+- Match outcome probability estimation
+
+### 🚀 Upcoming Features (Development Roadmap)
+
+- Dynamic Elo Rating System
+- Team strength modeling
+- Full FIFA World Cup group-stage simulation
+- Knockout bracket generation
+- 10,000-run Monte Carlo tournament simulation
+- Qualification and championship probability forecasting
+
+---
+
+## 👨‍💻 Author
+
+Aryan
