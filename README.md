@@ -1,5 +1,11 @@
 # FIFA World Cup Predictor & Simulator 🏆 (In Progress)
 
+A data-driven FIFA World Cup 2026 prediction system combining Machine Learning, Elo Ratings, and Monte Carlo Simulation.
+
+The project currently uses a Random Forest Classifier trained on historical international football results to predict head-to-head match outcomes. Future updates will introduce dynamic Elo ratings and a 10,000-run Monte Carlo tournament simulation engine to estimate qualification probabilities, knockout progression chances, and World Cup winning odds for every team.
+
+🚧 Status: Active Development
+
 This is a prototype of a FIFA World Cup Predictor. It currently features a basic machine learning model trained on historical World Cup matches and tournament qualifiers, with a clean Streamlit interface to predict individual matches.
 
 This project is marked as **In Progress** as we work to build a full tournament simulation engine.
