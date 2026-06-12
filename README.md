@@ -36,12 +36,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Current Prototype
-
-### FIFA World Cup Predictor Interface
-
-![FIFA Predictor Interface](screenshots/fifa-predictor-ui.jpeg)
-
 ### ✅ Current Features
 
 - Random Forest-based head-to-head match prediction
