@@ -33,7 +33,11 @@ streamlit run app.py
 ```
 
 ---
+## 📸 Current Prototype
 
+### FIFA World Cup Predictor Interface
+
+![FIFA Predictor Interface](screenshots/fifa-predictor-ui.png)
 ---
 
 ### ✅ Current Features
